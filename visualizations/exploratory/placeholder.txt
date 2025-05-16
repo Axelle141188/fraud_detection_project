@@ -1,0 +1,3 @@
+This directory contains visualizations created during the exploratory data analysis phase.
+It includes plots of data distributions, correlation matrices, and feature relationships.
+These visualizations help understand the underlying patterns in the transaction data.
