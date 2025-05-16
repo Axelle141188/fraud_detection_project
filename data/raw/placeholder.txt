@@ -1,0 +1,3 @@
+This directory contains the raw data files used in the fraud detection project.
+It stores the original, unprocessed credit card transaction dataset before any cleaning or feature engineering.
+Files in this directory should be treated as read-only to preserve the original data integrity.
