@@ -1,0 +1,3 @@
+This directory contains Jupyter notebooks that document the entire fraud detection analysis process.
+Notebooks include data exploration, data preparation, model development, evaluation, and insights.
+Each notebook represents a distinct step in the workflow and contains both code and documentation.
