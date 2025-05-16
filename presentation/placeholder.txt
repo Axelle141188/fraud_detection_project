@@ -1,0 +1,3 @@
+This directory contains presentation materials summarizing the fraud detection project.
+It includes slides, images, and documentation for stakeholder presentations.
+These materials communicate the project methodology, findings, and business impact.
