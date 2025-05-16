@@ -1,0 +1,3 @@
+This directory stores trained machine learning models in serialized format.
+It contains model files saved using pickle or other serialization methods.
+These saved models can be loaded for inference, evaluation, or deployment purposes.
