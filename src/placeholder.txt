@@ -1,0 +1,3 @@
+This directory contains reusable Python modules and utility functions for the project.
+It includes code for data processing, feature engineering, model training, and evaluation.
+These modules support the reproducibility and maintainability of the fraud detection pipeline.
